@@ -11,4 +11,4 @@ The form has a number of fields:-
 * Export Directory - A directory to export the renamed files to.
 * File Extension - File extension to append to renamed files
 
-Although this is very specific to my needs this code could be reused by other developers that want to rename a large number of files using csv file to remap filenames.
+Although this is very specific to my needs, this code could be reused by other developers that want to rename a large number of files using csv file to remap filenames.
